@@ -1,6 +1,5 @@
-workspace = { members = ["functions"] }
 [package]
-name = "variables"
+name = "functions"
 version = "0.1.0"
 edition = "2021"
 
