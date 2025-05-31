@@ -2,6 +2,10 @@ use std::{cmp::Ordering, io};
 
 use rand::Rng;
 
+pub mod guessing_game;
+
+use crate::guessing_game::Guess;
+
 fn main() {
     println!("Guess the number!");
 
