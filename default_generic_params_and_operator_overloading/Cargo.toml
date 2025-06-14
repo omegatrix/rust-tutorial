@@ -1,0 +1,6 @@
+[package]
+name = "default_generic_params_and_operator_overloading"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
